@@ -1,2 +1,3 @@
+//Import styles
 import './reset.scss'
-import './style.scss'
+import './style.scss'  
